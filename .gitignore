@@ -1,4 +1,5 @@
 build/
+jars/
 *.class
 
 # Package Files #
