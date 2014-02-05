@@ -66,6 +66,7 @@ public abstract class Account implements java.io.Serializable {
     }
 
     protected final void setState(State s) {
+        System.out.println("Forgotten print statement");
         state = s;
     }
 
